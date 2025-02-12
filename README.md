@@ -19,7 +19,7 @@ This project analyzes the sales performance of **Atliq Hardwares**, a company op
 
 ## 🔗 Power BI Dashboard  
 You can explore the interactive **Power BI Dashboard** here:  
-👉 [Click to View Dashboard](DASHBOARD_LINK_HERE)  
+👉 [Click to View Dashboard](https://github.com/shibinyousaf/Atliq-Sales-Analysis/blob/main/Atliq%20Hardware%20sales.pbix)  
 
 ## 📂 Project Files  
 - **SQL Queries**: Scripts used for data extraction and transformation  
